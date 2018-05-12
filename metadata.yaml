@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/728
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28653#The-Best-of-the-World-s-Classics-Restricted-to-Prose-Vol.-IX--of-X----America---I
 gutenberg_issued: '2009-05-01'
 gutenberg_type: Text
 identifiers:
